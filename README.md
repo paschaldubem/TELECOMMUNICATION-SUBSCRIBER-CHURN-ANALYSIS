@@ -35,9 +35,9 @@ This report analyzes customer attrition trends across FiberTel’s newly expande
 
 Source data from kaggle database used for analysis can be accessed [HERE](https://www.kaggle.com/datasets/synful/churn-data/data)
 
-The python changelog script used in inspecting and cleaning the data and preparing it for analysis can be found [HERE]()
+The python changelog script used in inspecting and cleaning the data and preparing it for analysis can be found [HERE](https://github.com/paschaldubem/TELECOMMUNICATION-SUBSCRIBER-CHURN-ANALYSIS/blob/main/Customer_churn.ipynb)
 
-Targeted python code base regarding various business questions can be found [HERE]()
+Targeted python code base regarding various business questions can be found [HERE](https://github.com/paschaldubem/TELECOMMUNICATION-SUBSCRIBER-CHURN-ANALYSIS/blob/main/Customer_churn.ipynb)
 
 An Interactive Looker Studio dashboard used to report and explore key factors contributing to churn can be found [HERE](https://lookerstudio.google.com/s/r_MA3UJ2fug)
 
