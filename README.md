@@ -2,12 +2,12 @@
 
 
 # TABLE OF CONTENTS
-- [BACKGROUND](background)
-- [DATA STRUCTURE](data-structure)
-- [EXECUTIVE SUMMARY](executive-summary)
-- [INSIGHTS DEEP DIVE](insights-deep-dive)
-- [RECOMMENDATIONS](recommendations)
-- [ASSUMPTIONS AND CAVEATS](assumptions-and-caveats)
+- [BACKGROUND](#background)
+- [DATA STRUCTURE](#data-structure)
+- [EXECUTIVE SUMMARY](#executive-summary)
+- [INSIGHTS DEEP DIVE](#insights-deep-dive)
+- [RECOMMENDATIONS](#recommendations)
+- [ASSUMPTIONS AND CAVEATS](#assumptions-and-caveats)
 
 
 ## BACKGOUND
